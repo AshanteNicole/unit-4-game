@@ -1,0 +1,38 @@
+.crystal-image1 {
+    width: 100px;
+    height: 100px;
+}
+
+.crystal-image2 {
+    width: 100px;
+    height: 100px;
+}
+
+.crystal-image3 {
+    width: 100px;
+    height: 100px;
+}
+
+.crystal-image4 {
+    width: 100px;
+    height: 100px;
+}
+#target-numbers {
+    border-style: groove;
+    float: left;
+
+}
+
+#rules {
+    border-style: groove; 
+}
+
+
+
+
+
+
+
+
+
+
