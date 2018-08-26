@@ -1,30 +1,15 @@
-.crystal-image1 {
+.crystal-image {
     width: 100px;
     height: 100px;
 }
 
-.crystal-image2 {
-    width: 100px;
-    height: 100px;
+.title {
+font-weight: bold;
 }
 
-.crystal-image3 {
-    width: 100px;
-    height: 100px;
-}
-
-.crystal-image4 {
-    width: 100px;
-    height: 100px;
-}
-#target-numbers {
+.card-body1{
     border-style: groove;
-    float: left;
-
-}
-
-#rules {
-    border-style: groove; 
+    background-color: aquamarine; 
 }
 
 
