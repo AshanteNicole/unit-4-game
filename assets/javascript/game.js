@@ -35,7 +35,7 @@ function newGame() {
    crystal.setAttribute("data-value", shuffledNumbers.pop());
    crystal.onclick = function (event) {
      // when crystal is clicked alert with its data-value
-     alert(event.target.getAttribute("data-value"));
+     (event.target.getAttribute("data-value"));
      score += parseInt(event.target.getAttribute("data-value"));
      // have to hook into the DOM
      document.getElementById("data-value").innerHTML = score;
